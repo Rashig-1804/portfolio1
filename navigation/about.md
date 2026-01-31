@@ -61,9 +61,7 @@ Flags are made using Wikipedia images
     var http_source = "https://upload.wikimedia.org/wikipedia/commons/";
     var living_in_the_world = [
         {"flag": "0/01/Flag_of_California.svg", "greeting": "Hey", "description": "California - forever"},
-        {"flag": "b/b9/Flag_of_Oregon.svg", "greeting": "Hi", "description": "Oregon - 9 years"},
-        {"flag": "b/be/Flag_of_England.svg", "greeting": "Alright mate", "description": "England - 2 years"},
-        {"flag": "e/ef/Flag_of_Hawaii.svg", "greeting": "Aloha", "description": "Hawaii - 2 years"},
+        {"flag": "4/41/Flag_of_India.svg", "greeting": "Namaste", "description": "India - As a baby"},
     ];
 
     // 3a. Consider how to update style count for size of container
@@ -101,38 +99,101 @@ Flags are made using Wikipedia images
 
 Here is what I did at those places
 
-- 🏫 Lots of Elementary Schools in Tucson, LA, Honolulu, and Glendale (CA)
-- 🏫 Middle and High School in Glendale (CA), Hoover High graduated '77
-- 🎓 Glendale CA Community College, UCLA Extension, LA Wilshire Computer Tech School '77 to '79
-- ⛪ England, London Missionary for Church of Jesus Christ of Latter-day Saints '79 to '81
-- 💼 Culver City, Glendale CA founder at Ashton-Tate, original PC's dBase 2 and 3 '82 to '87
-- 🎓 Eugene Oregon Undergraduate CompSci Degree at University of Oregon (Go Ducks!) '89 to '91
-- 💼 Eugene Oregon, founder and owner @ Microniche `88, Point Control CAD CAM developer '91 to '96
-- 🏢 San Diego CA Qualcomm, Satellite Comm and 1st Mobile OS (BREW) '96 to '19
-- 👨‍🏫 San Diego CA Teacher of Computer Science @ Del Norte High School San Diego '19 to present
+- 👶 Born in Patna, India in 2011
+- 🌅 Moved to sunny San Diego as a baby
+- 🎓 Attended Monterey Ridge Elementary School 
+- 🎓 Graduated from Oak Valley Middle School '25
+- 🎓 Currently attending Del Norte High School
+
 
 ### Culture, Family, and Fun
 
-Everything for me, as for many others, revolves around family and faith.
-
-- My mother told me that I was Danish, English. and Irish, here is my researched [family tree]({{site.baseurl}}/images/about/familytree.png)
-- My family is pretty big as I have been married twice, my 1st wife passed away.  We have had 5 kids, 4 adopted by me, 1 biological.  Plus, there are three grandkids.  My name to my grandkids is Abuilito.
-- The gallery of pics has some of my family, fun, culture and faith memories.
+Everything for me, as for many others, revolves around family and culture!
+- The gallery of pics has some of my family, fun, and cultural memories!
+- There is my mom, dad, and my elder sister, Ananya! 
+- I love dancing
+- Below are some pics from our fun New York Trip, my dance performance, Diwali, and my middle school promotion!
 
 <comment>
 Gallery of Pics, scroll to the right for more ...
 </comment>
+
 <div class="image-gallery">
-  <img src="{{site.baseurl}}/images/about/missionary.jpg" alt="Image 1">
-  <img src="{{site.baseurl}}/images/about/john_tamara.jpg" alt="Image 2">
-  <img src="{{site.baseurl}}/images/about/tamara_fam.jpg" alt="Image 3">
-  <img src="{{site.baseurl}}/images/about/surf.jpg" alt="Image 4">
-  <img src="{{site.baseurl}}/images/about/john_lora.jpg" alt="Image 5">
-  <img src="{{site.baseurl}}/images/about/lora_fam.jpg" alt="Image 6">
-  <img src="{{site.baseurl}}/images/about/lora_fam2.jpg" alt="Image 7">
-  <img src="{{site.baseurl}}/images/about/pj_party.jpg" alt="Image 8">
-  <img src="{{site.baseurl}}/images/about/trent_family.png" alt="Image 9">
-  <img src="{{site.baseurl}}/images/about/claire.jpg" alt="Image 10">
-  <img src="{{site.baseurl}}/images/about/grandkids.jpg" alt="Image 11">
-  <img src="{{site.baseurl}}/images/about/farm.jpg" alt="Image 12">
+  <img src="{{site.baseurl}}/images/about/family.jpg" alt="Image 1">
+  <img src="{{site.baseurl}}/images/about/new_york.JPG" alt="Image 2">
+  <img src="{{site.baseurl}}/images/about/dance_1.JPG" alt="Image 3">
+  <img src="{{site.baseurl}}/images/about/mom.jpg" alt="Image 4">
 </div>
+
+
+
+
+
+### Fun Facts!
+<div id="fun_facts"></div>
+
+<script>
+var outputElement = document.getElementById("fun_facts");
+
+// Clear the output
+outputElement.innerHTML = '';
+
+// Data array
+const fun_facts_pic = [
+  {flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/HK_food_Appolo_%E9%9B%AA%E7%B3%95_ice_cream_with_black_cookies_n_white_cream_May_2021_SS2_01.jpg/500px-HK_food_Appolo_%E9%9B%AA%E7%B3%95_ice_cream_with_black_cookies_n_white_cream_May_2021_SS2_01.jpg?20210512160940", greeting: "Favorite Ice Cream", description: "Cookies and Cream"},
+  {flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Shrimp_Fettucini_Alfredo.jpg/640px-Shrimp_Fettucini_Alfredo.jpg", greeting: "Favorite Food", description: "Alfredo Pasta"},
+  {flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/000080_Navy_Blue_Square.svg/640px-000080_Navy_Blue_Square.svg.png", greeting: "Favorite Color", description: "Navy Blue"},
+  {flag: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Steinway_%26_Sons_concert_grand_piano%2C_model_D-274%2C_manufactured_at_Steinway%27s_factory_in_Hamburg%2C_Germany.png/640px-Steinway_%26_Sons_concert_grand_piano%2C_model_D-274%2C_manufactured_at_Steinway%27s_factory_in_Hamburg%2C_Germany.png", greeting: "Hobby", description: "Playing the piano"},
+];
+
+// Create a div container with id
+const funFactsContainer = document.createElement('div');
+funFactsContainer.id = 'fun_facts';
+
+// Style the container 
+funFactsContainer.style.border = '2px solid';
+funFactsContainer.style.padding = '10px';
+
+// Grid specific styles
+funFactsContainer.style.display = 'grid';
+funFactsContainer.style.gridTemplateColumns = 'repeat(auto-fill, minmax(150px, 1fr))';
+funFactsContainer.style.gap = '10px';
+
+// Loop through data and create grid items
+for (const location of fun_facts_pic) {
+  // Create grid item
+  const itemgrid = document.createElement('div');
+  itemgrid.style.textAlign = 'center';
+  
+  // Create a flag image
+  const imgs = document.createElement('img');
+  imgs.src = location.flag;
+  imgs.alt = location.description + ' Flag';
+  imgs.style.width = '100%';
+  imgs.style.height = '100px';
+  imgs.style.objectFit = 'contain';
+  
+  // Create a description
+  const description = document.createElement('p');
+  description.textContent = location.description;
+  description.style.margin = '5px 0';
+  description.style.fontWeight = 'bold';
+  
+  // Create a greeting
+  const greeting = document.createElement('p');
+  greeting.textContent = location.greeting;
+  greeting.style.margin = '5px 0';
+  greeting.style.fontStyle = 'italic';
+  greeting.style.opacity = '0.7';
+  
+  // Add all elements to grid item
+  itemgrid.appendChild(imgs);
+  itemgrid.appendChild(description);
+  itemgrid.appendChild(greeting);
+  
+  // Add grid item to container
+  funFactsContainer.appendChild(itemgrid);
+}
+
+// Add containter to output 
+outputElement.appendChild(funFactsContainer);
