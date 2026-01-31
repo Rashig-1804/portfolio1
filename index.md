@@ -5,7 +5,9 @@ hide: true
 show_reading_time: false
 ---
 
-Hi! My name is [Your Full Name]
+### Rashi Gaurav
+
+Hi! My name is Rashi Gaurav. I am very eager to learn more about computer science, and how we can work with software platforms to program games or even a website!
 
 ### Development Environment
 
@@ -43,6 +45,13 @@ Hi! My name is [Your Full Name]
             Turtle
         </div>
     </a>
+    <a href="{{site.baseurl}}/memory" style="text-decoration: none;">
+        <div style="background-color: #1fc299ff; color: white; padding: 10px 20px; border-radius: 5px; font-weight: bold;">
+            Memory
+        </div>
+    </a>
+
+    
 </div>
 
 <br>
@@ -53,3 +62,6 @@ Hi! My name is [Your Full Name]
 > Feel free to reach out if you'd like to collaborate or learn more about our work.
 
 <p style="color: #2A7DB1;">Open Coding Society: <a href="https://opencodingsociety.com" style="color: #2A7DB1; text-decoration: underline;">Socials</a></p>
+
+
+![Image](https://github.com/user-attachments/assets/698b7b96-3fd2-4961-a286-1f1d17a48021)
