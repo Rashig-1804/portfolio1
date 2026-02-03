@@ -28,6 +28,28 @@ class CustomLevel {
             pixels: { height: 600, width: 1000 }
         };
 
+        const playerData = {
+            id: 'Hero',
+            src: path + "/images/gamify/tux.png",
+            SCALE_FACTOR: 5,
+            STEP_FACTOR: 1000,
+            ANIMATION_RATE: 50,
+            INIT_POSITION: { x: 100, y: 300 },
+            pixels: { height: 256, width: 352 },
+            orientation: { rows: 8, columns: 11 },
+            down: { row: 0, start: 0, columns: 3 },
+            downRight: { row: Math.min(1, 8 - 1), start: 0, columns: 3, rotate: Math.PI/16 },
+            downLeft: { row: Math.min(2, 8 - 1), start: 0, columns: 3, rotate: -Math.PI/16 },
+            right: { row: Math.min(1, 8 - 1), start: 0, columns: 3 },
+            left: { row: Math.min(2, 8 - 1), start: 0, columns: 3 },
+            up: { row: Math.min(3, 8 - 1), start: 0, columns: 3 },
+            upRight: { row: Math.min(1, 8 - 1), start: 0, columns: 3, rotate: -Math.PI/16 },
+            upLeft: { row: Math.min(2, 8 - 1), start: 0, columns: 3, rotate: Math.PI/16 },
+            hitbox: { widthPercentage: 0.45, heightPercentage: 0.2 },
+            keypress: { up: 87, left: 65, down: 83, right: 68 }
+        };
+
+
         this.classes = [
                   { class: GameEnvBackground, data: bgData }
         ];
