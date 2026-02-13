@@ -121,12 +121,9 @@ Gallery of Pics, scroll to the right for more ...
 <div class="image-gallery">
   <img src="{{site.baseurl}}/images/about/family.jpg" alt="Image 1">
   <img src="{{site.baseurl}}/images/about/new_york.JPG" alt="Image 2">
-  <img src="{{site.baseurl}}/images/about/dance_1.JPG" alt="Image 3">
+  <img src="{{site.baseurl}}/images/about/dance_1.png" alt="Image 3">
   <img src="{{site.baseurl}}/images/about/mom.jpg" alt="Image 4">
 </div>
-
-
-
 
 
 ### Fun Facts!
