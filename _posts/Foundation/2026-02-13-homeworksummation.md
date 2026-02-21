@@ -15,7 +15,7 @@ rashig-1804.github.io/portfolio1/js/nested-conditionals
 
 
 3. Arrays Lesson Hw: 
-rashig-1804.github.io/portfolio1/js/arrays
+rashig-1804.github.io/portfolio1/js/arrays_hw
 
 
 4. Math Expressions Lesson Hw: 
