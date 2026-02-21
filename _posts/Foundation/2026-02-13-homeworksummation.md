@@ -11,7 +11,7 @@ rashig-1804.github.io/portfolio1/js/iterationshw
 
 
 2. Conditionals Lesson Hw: 
-rashig-1804.github.io/portfolio1/js/nested-conditionals
+rashig-1804.github.io/portfolio1/js/nested-conditionals_hw
 
 
 3. Arrays Lesson Hw: 
@@ -19,17 +19,16 @@ rashig-1804.github.io/portfolio1/js/arrays_hw
 
 
 4. Math Expressions Lesson Hw: 
-rashig-1804.github.io/portfolio1/js/math
+rashig-1804.github.io/portfolio1/js/math_hw
 
 
 5. Booleans Lesson Hw: 
-rashig-1804.github.io/portfolio1/js/booleans
+rashig-1804.github.io/portfolio1/js/booleans_hw
 
 
 6. JSON Data Structures Lesson Hw:  
-rashig-1804.github.io/portfolio1/js/json
+rashig-1804.github.io/portfolio1/js/json_hw
 
 
 7. Strings Lesson Hw: 
-rashig-1804.github.io/portfolio1/js/strings
-
+rashig-1804.github.io/portfolio1/js/strings_hw
