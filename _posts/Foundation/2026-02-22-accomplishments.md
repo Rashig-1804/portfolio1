@@ -7,4 +7,25 @@ author: Rashi
 date: February 22, 2026
 ---
 
-## Key Accomplishments
+## Introduction
+CSSE 1 has taught me so many important skills of life and has improved my confidence in Computer science, which I didn't have, before this class. 
+
+I have learned to work with an operating system and effectively use developer tools. I have also played important roles such as being both a Scrum Master and learner. Below, I will talk in depth, about each aspect of my growth
+
+### Tools Journey 
+Before, I was intimidated just looking at a computer system or platforms like Github, VSCode, Terminal, because I didn't know how to use them. However, throughout the trimester, I have gained so much confidence in these developer tools, due to our constant use of them. 
+
+- I've learned how to effectively use Github to organize and manage components within a repository. 
+- I've also learned how to work in VSCode, and create projects or blogs quick and efficient. 
+
+
+### Scrum Master and Learner 
+I have also learned how to manage team projects and played a key role as a Scrum Master in class, while also learning new things from other peers
+
+**I have...**
+-   lead our team teach lesson of Data Abstractions
+-   organized and outlined our Level 1 plan for the Murder Mystery Game
+-   managed Kanban Boards
+-   encouraged Collaboration
+-   helped other teammates understand a strategy or new topic
+-   learned from and gotten help from other teammates whether it was for a blog or VSCode issue
