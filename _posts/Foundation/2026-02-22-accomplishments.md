@@ -20,12 +20,25 @@ Before, I was intimidated just looking at a computer system or platforms like Gi
 
 
 ### Scrum Master and Learner 
-I have also learned how to manage team projects and played a key role as a Scrum Master in class, while also learning new things from other peers
+I have learned how to manage team projects and played a key role as a Scrum Master in class, while also learning new things from other peers
 
 **I have...**
 -   lead our team teach lesson of Data Abstractions
 -   organized and outlined our Level 1 plan for the Murder Mystery Game
--   managed Kanban Boards
--   encouraged Collaboration
+-   managed Kanban Boards in Github
+-   encouraged collaboration
 -   helped other teammates understand a strategy or new topic
 -   learned from and gotten help from other teammates whether it was for a blog or VSCode issue
+
+
+As a team teacher, an accomplishment of mine was:
+Greatly contributing to creating an easy, interactive team teach lesson for **data abstractions** 
+
+I helped by making the lesson vivid by using different colors for different texts. I also used common real world examples to make an abstract topic like data abstractions, more comprehendable. 
+
+<div class="img1">
+  <img src="{{site.baseurl}}/images/lesson_pic.png" alt="Image 7" style="width: 60%;">
+</div>
+
+[Data Abstractions Lesson](https://pages.opencodingsociety.com/js/data-abstraction)
+
