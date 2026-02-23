@@ -37,8 +37,10 @@ Greatly contributing to creating an easy, interactive team teach lesson for **da
 I helped by making the lesson vivid by using different colors for different texts. I also used common real world examples to make an abstract topic like data abstractions, more comprehendable. 
 
 <div class="img1">
-  <img src="{{site.baseurl}}/images/lesson_pic.png" alt="Image 7" style="width: 60%;">
+  <img src="{{site.baseurl}}/images/lesson_pic.png" alt="Image 7" style="border: 2px solid white; width: 80%;">
 </div>
 
+
 [Data Abstractions Lesson](https://pages.opencodingsociety.com/js/data-abstraction)
+
 
