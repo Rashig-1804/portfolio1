@@ -31,7 +31,7 @@ I have learned how to manage team projects and played a key role as a Scrum Mast
 -   learned from and gotten help from other teammates whether it was for a blog or VSCode issue
 
 
-As a team teacher, an accomplishment of mine was:
+As a **team teacher**, an accomplishment of mine was:
 Greatly contributing to creating an easy, interactive team teach lesson for **data abstractions** 
 
 I helped by making the lesson vivid by using different colors for different texts. I also used common real world examples to make an abstract topic like data abstractions, more comprehendable. 
