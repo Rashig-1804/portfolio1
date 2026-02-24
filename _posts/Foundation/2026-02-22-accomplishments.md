@@ -33,6 +33,8 @@ I have learned how to manage team projects and played a key role as a Scrum Mast
 
 
 I helped successfully debug and fix the player and npcs of the Level 1 Murder Mystery Game
+
+(This is an image of me checking the hitbox of the player and determining how to fix the size)
 <div class="img2">
   <img src="{{site.baseurl}}/images/debug.png" alt="Image 8" style="border: 2px solid white; width: 80%;">
 </div>
