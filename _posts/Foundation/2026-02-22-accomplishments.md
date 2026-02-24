@@ -31,6 +31,13 @@ I have learned how to manage team projects and played a key role as a Scrum Mast
 -   learned from and gotten help from other teammates whether it was for a blog or VSCode issue
 
 
+
+I helped successfully debug and fix the player and npcs of the Level 1 Murder Mystery Game
+<div class="img2">
+  <img src="{{site.baseurl}}/images/debug.png" alt="Image 8" style="border: 2px solid white; width: 80%;">
+</div>
+
+
 ### Team teacher
 As a **team teacher**, an accomplishment of mine was:
 Greatly contributing to creating an easy, interactive team teach lesson for **data abstractions** 
