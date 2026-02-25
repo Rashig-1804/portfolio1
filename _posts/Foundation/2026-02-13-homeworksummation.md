@@ -32,3 +32,6 @@ rashig-1804.github.io/portfolio1/js/json_hw
 
 7. Strings Lesson Hw: 
 rashig-1804.github.io/portfolio1/js/strings_hw
+
+8. Classes Lesson Hw:
+rashig-1804.github.io/portfolio1/js/classes_hw
