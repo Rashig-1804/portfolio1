@@ -24,3 +24,6 @@ comments: true
 
 8. **Classes Lesson Hw:**
 [rashig-1804.github.io/portfolio1/js/classes_hw](https://rashig-1804.github.io/portfolio1/js/classes_hw)
+
+9. **Variables Lesson Hw:**
+[rashig-1804.github.io/portfolio1/js/variables_hw](rashig-1804.github.io/portfolio1/js/variables_hw)
