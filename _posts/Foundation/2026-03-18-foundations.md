@@ -49,3 +49,12 @@ Example from the Red Riding Hood Game:
 <div class="jsdoc">
   <img src="{{site.baseurl}}/images/jsdoc1.png" alt="Image 8" style="border: 2px solid white; width: 60%;">
 </div>
+
+### Comic-Style Documentation
+We have used comic style documentation to thoroughly explain our Red Riding Hood Game, with attention capturing text features in our GitHub Issue.
+<br>
+
+<div class="comicdoc">
+  <img src="{{site.baseurl}}/images/comicdoc.png" alt="Image 8" style="border: 2px solid white; width: 60%;">
+</div>
+
