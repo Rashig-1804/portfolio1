@@ -8,6 +8,8 @@ microblog: True
 ---
 
 ## #1. <font color="red"> Software Engineering and SDLC </font>
+
+### Kanban Boards
 To manage an organized repository and workflow, my teams would utilize scrum and agile practices.
 <br>
 <br>
@@ -29,6 +31,7 @@ Mini Games Planning
 <br>
 <br>
 
+### Debugging
 I also always **debug and error handle** through tools like <font color="red"> inspect </font>and <font color="red"> console </font>
 <br>
 <br>
@@ -38,7 +41,11 @@ I also always **debug and error handle** through tools like <font color="red"> i
 </div>
 <br>
 
-### **JS Documentation** 
+### JS Documentation
 I added JS documentation of > 10% density in the overall code, to explain the methods and technical features added. 
 <br> 
-Example
+Example from the Red Riding Hood Game:
+<br>
+<div class="jsdoc">
+  <img src="{{site.baseurl}}/images/jsdoc1.png" alt="Image 8" style="border: 2px solid white; width: 60%;">
+</div>

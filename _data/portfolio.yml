@@ -15,7 +15,7 @@ Topics:
   - title: "CSSE 2: Engineering"
     image: "oop.png"
     alt: "OOP Inheritance Example"
-    link: "/finalportfolio/" 
+    link: "/finalportfolio/engineering" 
     keyPoints:
       - "JS Classes & Inheritance"
       - "Data-driven Game Design"
@@ -26,7 +26,7 @@ Topics:
   - title: "Game Development"
     image: "debug.png"
     alt: "Debugging hitboxes"
-    link: "/finalportfolio/"
+    link: "/finalportfolio/gamedevelopment"
     keyPoints:
       - "Hitbox Interaction"
       - "Sprite Animations"
