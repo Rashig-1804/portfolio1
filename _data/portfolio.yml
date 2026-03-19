@@ -1,0 +1,35 @@
+Title: "Rashi's CSSE Journey"
+Description: "From foundational software tools to advanced Object-Oriented game design."
+Topics:
+  - title: "CSSE 1: Foundations"
+    image: "kanban1.png"  # Make sure this is in your /images/ folder
+    alt: "Kanban Board for CSSE1"
+    link: "/tools/"       # Where the image clicks to
+    keyPoints:
+      - "Scrum Master Role"
+      - "GitHub & VSCode Setup"
+      - "SDLC Management"
+    subtitle: "Social Computing"
+    description: "Built the foundation of my coding career by mastering version control and team collaboration."
+
+  - title: "CSSE 2: Engineering"
+    image: "oop.png"
+    alt: "OOP Inheritance Example"
+    link: "/finalportfolio/" 
+    keyPoints:
+      - "JS Classes & Inheritance"
+      - "Data-driven Game Design"
+      - "Advanced Debugging"
+    subtitle: "Object Oriented Programming"
+    description: "Moved beyond syntax to build complex systems using inheritance and modular game logic."
+
+  - title: "Game Development"
+    image: "debug.png"
+    alt: "Debugging hitboxes"
+    link: "/finalportfolio/"
+    keyPoints:
+      - "Hitbox Interaction"
+      - "Sprite Animations"
+      - "Documentation > 10%"
+    subtitle: "Software Engineering"
+    description: "Applied professional engineering practices to create 'Red Riding Hood' and 'Murder Mystery' levels."
