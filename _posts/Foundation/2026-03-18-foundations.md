@@ -9,6 +9,15 @@ microblog: True
 
 ## #1. <font color="red"> Software Engineering and SDLC </font>
 
+### <font color="yellow"> Table of Contents </font>
+* [Kanban Boards](#kanban)
+* [Debugging Using Resources](#debug)
+* [JS Documentation](#js)
+* [Comic Style Documentation](#comic)
+
+
+<a id="kanban"></a>
+
 ### Kanban Boards
 To manage an organized repository and workflow, my teams would utilize scrum and agile practices.
 <br>
@@ -31,6 +40,8 @@ Mini Games Planning
 <br>
 <br>
 
+<a id="debug"></a>
+
 ### Debugging
 I also always **debug and error handle** through tools like <font color="red"> inspect </font>and <font color="red"> console </font>
 <br>
@@ -41,6 +52,8 @@ I also always **debug and error handle** through tools like <font color="red"> i
 </div>
 <br>
 
+<a id="js"></a>
+
 ### JS Documentation
 I added JS documentation of > 10% density in the overall code, to explain the methods and technical features added. 
 <br> 
@@ -50,6 +63,9 @@ Example from the Red Riding Hood Game:
   <img src="{{site.baseurl}}/images/jsdoc1.png" alt="Image 8" style="border: 2px solid white; width: 60%;">
 </div>
 
+
+<a id="comic"></a>
+
 ### Comic-Style Documentation
 We have used comic style documentation to thoroughly explain our Red Riding Hood Game, with attention capturing text features in our GitHub Issue.
 <br>
@@ -57,4 +73,5 @@ We have used comic style documentation to thoroughly explain our Red Riding Hood
 <div class="comicdoc">
   <img src="{{site.baseurl}}/images/comicdoc.png" alt="Image 8" style="border: 2px solid white; width: 60%;">
 </div>
+
 
