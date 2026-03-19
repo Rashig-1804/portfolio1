@@ -4,7 +4,7 @@ Topics:
   - title: "CSSE 1: Foundations"
     image: "kanban1.png"  # Make sure this is in your /images/ folder
     alt: "Kanban Board for CSSE1"
-    link: "/tools/"       # Where the image clicks to
+    link: "/finalportfolio/foundations"       # Where the image clicks to
     keyPoints:
       - "Scrum Master Role"
       - "GitHub & VSCode Setup"
