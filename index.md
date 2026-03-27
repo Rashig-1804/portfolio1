@@ -10,6 +10,7 @@ show_reading_time: false
 Hi! My name is Rashi Gaurav. I am very eager to learn more about computer science, and how we can work with software platforms to program games or even a website!
 
 ### Development Environment
+hi
 
 > Coding starts with tools, explore these tools and procedures with a click.
 
